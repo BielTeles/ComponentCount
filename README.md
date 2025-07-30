@@ -1,10 +1,11 @@
-# 🎯 ComponentCount Calculator
+# 🔧 ComponentCount Calculator
 
-> **Calculadora inteligente para estimar a quantidade de componentes SMD em bobinas**
+> **Calculadora inteligente e moderna para estimar a quantidade de componentes SMD em bobinas**
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://windows.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![UI/UX](https://img.shields.io/badge/UI%2FUX-Modern%20Design-brightgreen.svg)](MELHORIAS_UI_UX.md)
 
 ---
 
@@ -12,18 +13,31 @@
 
 Imagine que você está trabalhando com componentes eletrônicos SMD e precisa saber quantos componentes restam em uma bobina. Em vez de contar um por um (que seria uma tarefa interminável! 😅), esta calculadora faz isso matematicamente para você!
 
-**ComponentCount Calculator** é uma aplicação desktop que calcula a quantidade estimada de componentes em bobinas usando fórmulas matemáticas precisas, baseadas na calculadora online da [CompuPhase](https://www.compuphase.com/electronics/reelestimate.htm).
+**ComponentCount Calculator** é uma aplicação desktop moderna que calcula a quantidade estimada de componentes em bobinas usando fórmulas matemáticas precisas, baseadas na calculadora online da [CompuPhase](https://www.compuphase.com/electronics/reelestimate.htm).
+
+## ✨ Novidades - Interface Moderna
+
+O ComponentCount agora apresenta uma **interface completamente redesenhada** com:
+
+- 🎨 **Design Moderno**: Paleta de cores profissional e layout responsivo
+- 🔧 **Interface Intuitiva**: Navegação clara e fluxo de trabalho otimizado
+- 💡 **Tooltips Informativos**: Ajuda contextual em todos os campos
+- 📱 **Layout Responsivo**: Interface adaptável e bem organizada
+- 🎯 **Elementos Visuais**: Ícones descritivos e botões modernos
+- 🌈 **Sistema de Cores**: Cores consistentes e harmoniosas
 
 ---
 
 ## ✨ Por que usar esta calculadora?
 
 - 🎯 **Precisão Matemática**: Usa fórmulas exatas, não aproximações
-- 🚀 **Fácil de Usar**: Interface intuitiva e moderna
+- 🚀 **Interface Moderna**: Design profissional e intuitivo
 - 📱 **Executável Standalone**: Não precisa instalar Python
 - 🔧 **Múltiplos Componentes**: Suporte para 9 tipos diferentes
 - 📊 **Resultados Detalhados**: Quantidade, comprimento, voltas e mais
 - 💡 **Baseada em Referência**: Fórmulas validadas e confiáveis
+- 🎨 **UX Aprimorada**: Tooltips, ícones e navegação intuitiva
+- 💾 **Gerenciamento de Projetos**: Salva e carrega projetos completos
 
 ---
 
@@ -238,6 +252,41 @@ Precisa de ajuda? 🤔
 Se esta calculadora te salvou de contar milhares de componentes manualmente, considere dar uma ⭐ no repositório! 
 
 **Compartilhe com outros engenheiros e técnicos que também precisam dessa ferramenta!** 🚀
+
+---
+
+## 🎨 Melhorias de UI/UX Implementadas
+
+O ComponentCount passou por uma transformação completa de interface! Veja todas as melhorias em detalhes:
+
+### 🎯 Principais Melhorias
+
+- **Design Moderno**: Paleta de cores profissional baseada em tons de azul e cinza
+- **Layout Responsivo**: Interface adaptável e bem organizada em cards
+- **Sistema de Ícones**: Ícones emoji para melhor identificação visual
+- **Tooltips Informativos**: Ajuda contextual em todos os campos importantes
+- **Botões Modernos**: Design flat com cores consistentes por função
+- **Diálogos Aprimorados**: Interface de confirmação moderna e intuitiva
+- **Tabela Moderna**: Estilo profissional com melhor legibilidade
+
+### 🌈 Sistema de Cores
+
+- 🔵 **Azul (Primary)**: Calcular
+- 🟢 **Verde (Success)**: Salvar
+- 🟡 **Amarelo (Warning)**: Exportar
+- 🔴 **Vermelho (Danger)**: Excluir
+- 🟣 **Roxo (Purple)**: Salvar Projeto
+- 🔵 **Azul Escuro (Blue)**: Carregar Projeto
+- 🟢 **Verde Escuro (Green)**: Novo Projeto
+
+### 📱 Experiência do Usuário
+
+- **Navegação Intuitiva**: Fluxo de trabalho mais claro e lógico
+- **Feedback Visual**: Estados visuais para diferentes ações
+- **Acessibilidade**: Contraste adequado e tipografia legível
+- **Produtividade**: Interface otimizada para uso eficiente
+
+> 📖 **Documentação Completa**: Veja todos os detalhes técnicos em [MELHORIAS_UI_UX.md](MELHORIAS_UI_UX.md)
 
 ---
 
